@@ -1,0 +1,13 @@
+{
+  "name": "bns-fishing",
+  "repository": "https://gitee.com/timoodada/react-music.git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "get-pixels": "^3.3.2",
+    "keypress": "^0.2.1",
+    "robotjs": "^0.5.1",
+    "screenshot-desktop": "^1.7.0"
+  }
+}
